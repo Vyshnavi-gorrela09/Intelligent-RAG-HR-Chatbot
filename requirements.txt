@@ -1,0 +1,11 @@
+
+pandas
+numpy
+sentence-transformers
+faiss-cpu
+langchain
+langchain-community
+langchain-core
+google-generativeai
+streamlit
+pypdf
